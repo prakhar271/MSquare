@@ -105,12 +105,27 @@
 }
 
 @media (max-width: 968px) {
+    .about {
+        padding: var(--spacing-lg) 1.5rem;
+    }
+
     .about-container {
         grid-template-columns: 1fr;
-        gap: 4rem;
+        gap: 3rem;
     }
 
     .about-heading {
+        font-size: 2.25rem;
+    }
+
+    .stats {
+        flex-wrap: wrap;
+        gap: 2rem;
+        padding-top: 2rem;
+        margin-top: 2rem;
+    }
+
+    .stat-number {
         font-size: 2.5rem;
     }
 }

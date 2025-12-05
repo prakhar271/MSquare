@@ -31,9 +31,24 @@
 
 .services-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-    gap: 2.5rem;
-    margin-top: 4rem;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+    margin-top: 3rem;
+}
+
+@media (max-width: 768px) {
+    .services {
+        padding: var(--spacing-lg) 1.5rem;
+    }
+
+    .services-grid {
+        gap: 1.5rem;
+        margin-top: 3rem;
+    }
+
+    .service-card {
+        padding: 2rem;
+    }
 }
 
 .service-card {

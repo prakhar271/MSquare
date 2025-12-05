@@ -109,8 +109,25 @@
 }
 
 @media (max-width: 768px) {
+    .contact {
+        padding: var(--spacing-lg) 1.5rem 2rem;
+    }
+
+    .contact-header {
+        margin-bottom: 3rem;
+    }
+
     .contact-content {
         grid-template-columns: 1fr;
         gap: 3rem;
+        margin-bottom: 4rem;
+    }
+
+    .contact-form {
+        padding: 2rem;
+    }
+
+    .info-item {
+        gap: 1rem;
     }
 }

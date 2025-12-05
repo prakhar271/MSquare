@@ -6,18 +6,18 @@ import './Testimonials.css';
 const testimonials = [
     {
         quote: "MSquare Groups transformed our business. Their strategic insights were invaluable.",
-        author: "Sarah Johnson",
-        role: "CEO, TechStart Inc."
+        author: "Madhan",
+        role: "CEO"
     },
     {
         quote: "Professional, innovative, and results-oriented. Highly recommended.",
-        author: "Michael Chen",
-        role: "Director, Global Solutions"
+        author: "Prakhar",
+        role: "Director"
     },
     {
         quote: "The team went above and beyond to deliver a seamless digital experience.",
-        author: "Emily Davis",
-        role: "Marketing Head, Creative Co."
+        author: "PK",
+        role: "Marketing Head"
     }
 ];
 

@@ -136,18 +136,27 @@
 }
 
 @media (max-width: 768px) {
+    .hero {
+        padding: 0 1.5rem;
+        min-height: 100svh;
+        /* Use svh for better mobile browser support */
+    }
+
     .hero-title {
-        font-size: 3.5rem;
+        font-size: 3rem;
+        margin-bottom: 1rem;
     }
 
     .hero-description {
         font-size: 1.1rem;
+        margin-bottom: 2rem;
     }
 
     .hero-cta {
         flex-direction: column;
         align-items: center;
         width: 100%;
+        gap: 1rem;
     }
 
     .btn {

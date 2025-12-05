@@ -3,6 +3,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://prakhar271.github.io/MSquare/)
 
 A modern, vibrant, and responsive landing page for **MSquare Groups**, featuring a custom "Prismatic Light" design system. This project showcases a clean, professional aesthetic with playful colorful accents and advanced CSS glassmorphism effects.
 
