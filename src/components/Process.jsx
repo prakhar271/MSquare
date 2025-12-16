@@ -47,7 +47,6 @@ const processSteps = [
 ];
 
 const Process = () => {
-    console.log('Process component loaded');
     return (
         <section id="process" className="process">
             <div className="process-container">
