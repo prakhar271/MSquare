@@ -39,6 +39,7 @@ const caseStudies = [
 ];
 
 const CaseStudies = () => {
+    console.log('CaseStudies component loaded');
     return (
         <section id="case-studies" className="case-studies">
             <div className="case-studies-container">

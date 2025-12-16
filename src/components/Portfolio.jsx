@@ -52,6 +52,7 @@ const projects = [
 const categories = ['All', 'Web Development', 'Mobile Development', 'Digital Marketing'];
 
 const Portfolio = () => {
+    console.log('Portfolio component loaded');
     const [activeCategory, setActiveCategory] = useState('All');
     const [filteredProjects, setFilteredProjects] = useState(projects);
 
