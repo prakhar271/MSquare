@@ -55,7 +55,11 @@ const Contact = () => {
                         transition={{ duration: 0.5 }}
                         viewport={{ once: true }}
                         className="contact-form"
-                        onSubmit={(e) => e.preventDefault()}
+                        onSubmit={(e) => {
+                            e.preventDefault();
+                            // Add form submission logic here
+                            alert('Thank you for your message! We will get back to you soon.');
+                        }}
                     >
                         <div className="form-group">
                             <input type="text" placeholder="Your Name" required />

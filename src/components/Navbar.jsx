@@ -36,6 +36,15 @@ const Navbar = () => {
                         <a href="#services" onClick={() => setIsOpen(false)}>Services</a>
                     </li>
                     <li className="nav-item">
+                        <a href="#portfolio" onClick={() => setIsOpen(false)}>Portfolio</a>
+                    </li>
+                    <li className="nav-item">
+                        <a href="#case-studies" onClick={() => setIsOpen(false)}>Case Studies</a>
+                    </li>
+                    <li className="nav-item">
+                        <a href="#process" onClick={() => setIsOpen(false)}>Process</a>
+                    </li>
+                    <li className="nav-item">
                         <a href="#contact" onClick={() => setIsOpen(false)}>Contact</a>
                     </li>
                 </ul>

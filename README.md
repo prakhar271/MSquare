@@ -28,8 +28,11 @@ The UI has been completely revamped to move away from dark, heavy themes to a fr
 1.  **Hero**: The landing area with a strong value proposition and animated visuals.
 2.  **About Us**: A detailed overview of the company with key statistics (Years Experience, Projects Completed, etc.).
 3.  **Our Services**: A grid layout highlighting core offerings like Web Development, App Development, and Digital Marketing.
-4.  **Testimonials**: Social proof from happy clients displayed in elegant glass cards.
-5.  **Contact**: A functional, stylish contact form paired with contact information.
+4.  **Portfolio**: Interactive showcase of previous work with filtering by category and project details.
+5.  **Case Studies**: In-depth success stories with measurable results and client testimonials.
+6.  **Process**: Step-by-step methodology showing how projects are delivered from discovery to support.
+7.  **Testimonials**: Enhanced social proof with client photos, ratings, and detailed feedback.
+8.  **Contact**: A functional, stylish contact form paired with contact information.
 
 ## 🛠️ Tech Stack
 
