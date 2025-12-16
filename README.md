@@ -64,6 +64,46 @@ Follow these steps to run the project locally:
 4.  **Open in Browser**
     Visit `http://localhost:5173` to view the app.
 
+## 📚 Documentation
+
+### Complete Guides
+- **[📖 Full Documentation](DOCUMENTATION.md)** - Comprehensive end-to-end guide
+- **[🚀 Quick Start Guide](QUICK_START.md)** - Get up and running in 5 minutes
+- **[✅ Deployment Checklist](DEPLOYMENT_CHECKLIST.md)** - Pre-launch validation
+
+### Key Documentation Sections
+- **Architecture & Tech Stack** - Understanding the codebase
+- **Project Structure** - File organization and components
+- **Customization Guide** - Making it your own
+- **Deployment Guide** - Going live step-by-step
+- **Troubleshooting** - Common issues and solutions
+- **Performance Optimization** - Speed and SEO tips
+
+## 🎯 For Developers
+
+### Quick Commands
+```bash
+# Development
+npm run dev          # Start development server
+npm run build        # Build for production
+npm run preview      # Preview production build
+npm run deploy       # Deploy to GitHub Pages
+
+# Maintenance
+npm run lint         # Check code quality
+npm audit            # Security audit
+npm update           # Update dependencies
+```
+
+### Key Files to Customize
+| File | Purpose |
+|------|---------|
+| `src/components/Portfolio.jsx` | Your projects showcase |
+| `src/components/CaseStudies.jsx` | Success stories |
+| `src/components/Testimonials.jsx` | Client feedback |
+| `src/components/Contact.jsx` | Contact information |
+| `src/styles/variables.css` | Colors and design system |
+
 ## 📄 License
 
 This project is licensed under the MIT License.
